@@ -200,6 +200,18 @@ footer {
     margin-top: 3rem;
 }
 
+.footer-credits {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 0.9rem;
+}
+
+.footer-credits p {
+    margin: 0.3rem 0;
+    opacity: 0.8;
+}
+
 /* التجاوب مع الشاشات الصغيرة */
 @media (max-width: 768px) {
     nav ul {
